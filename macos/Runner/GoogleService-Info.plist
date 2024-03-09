@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>590666906347-2sekgqj09sc0dctns9b5at4j2eaumn7s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.590666906347-2sekgqj09sc0dctns9b5at4j2eaumn7s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>590666906347-941lhegrpemj9taknua5bd662bstl5bq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAk8zKxkU0Bbd2Z9ix5BXmlRSOpF6Dq5GU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>590666906347</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.equipohealth.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>my-second-project-14356</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-second-project-14356.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:590666906347:ios:5ca82699d4867f85495cae</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-second-project-14356.firebaseio.com</string>
+</dict>
+</plist>

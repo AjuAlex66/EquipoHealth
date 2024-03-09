@@ -1,0 +1,271 @@
+{
+  "project_info": {
+    "project_number": "590666906347",
+    "firebase_url": "https://my-second-project-14356.firebaseio.com",
+    "project_id": "my-second-project-14356",
+    "storage_bucket": "my-second-project-14356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590666906347:android:70cc70c9c1447241495cae",
+        "android_client_info": {
+          "package_name": "com.example.dingdong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7glHgpa8ucOUE6Ix8bq_TdbvXAkYQoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590666906347-2sekgqj09sc0dctns9b5at4j2eaumn7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.equipohealth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590666906347:android:3847ed4fabc9c871495cae",
+        "android_client_info": {
+          "package_name": "com.example.google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7glHgpa8ucOUE6Ix8bq_TdbvXAkYQoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590666906347-2sekgqj09sc0dctns9b5at4j2eaumn7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.equipohealth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590666906347:android:5abf9ec59e424b57495cae",
+        "android_client_info": {
+          "package_name": "com.example.equipohealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7glHgpa8ucOUE6Ix8bq_TdbvXAkYQoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590666906347-2sekgqj09sc0dctns9b5at4j2eaumn7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.equipohealth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590666906347:android:05b4853301bfc29e495cae",
+        "android_client_info": {
+          "package_name": "com.example.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7glHgpa8ucOUE6Ix8bq_TdbvXAkYQoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590666906347-2sekgqj09sc0dctns9b5at4j2eaumn7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.equipohealth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590666906347:android:af87b860979ff4b7495cae",
+        "android_client_info": {
+          "package_name": "com.example.timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7glHgpa8ucOUE6Ix8bq_TdbvXAkYQoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590666906347-2sekgqj09sc0dctns9b5at4j2eaumn7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.equipohealth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590666906347:android:749ccbf0dd02fad0495cae",
+        "android_client_info": {
+          "package_name": "com.example.virtualque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590666906347-lilii6nrvsin10bpcln0sp0ld7oh4gn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtualque",
+            "certificate_hash": "17e243b63c186dc136ecebab2fb7a5e761d044dd"
+          }
+        },
+        {
+          "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7glHgpa8ucOUE6Ix8bq_TdbvXAkYQoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590666906347-2sekgqj09sc0dctns9b5at4j2eaumn7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.equipohealth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590666906347:android:33152a081c4cbe7a495cae",
+        "android_client_info": {
+          "package_name": "com.example.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7glHgpa8ucOUE6Ix8bq_TdbvXAkYQoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590666906347-t9t6keqcbqigjaggdbpo6omihvr4f6nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590666906347-2sekgqj09sc0dctns9b5at4j2eaumn7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.equipohealth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
